@@ -1,6 +1,6 @@
 # Progress-Bar
 
-![Progress-Bar-demo](https://github.com/teotimepacreau/Expanding-Cards-Day1-of-100DaysOfCode/blob/main/Expanding-cards.gif)
+![Progress-Bar-demo](https://github.com/teotimepacreau/Progress-Steps-Day2-of-100DaysOfCode/blob/main/Progress%20Steps.gif)
 
 # Project goal
 
