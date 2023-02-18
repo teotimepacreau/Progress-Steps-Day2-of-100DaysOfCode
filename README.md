@@ -4,7 +4,7 @@
 
 # Project goal
 
-- position relative and position absolute
+- position relative and position absolute to create the progress bar
 - CSS animation + transition to give it the smooth effect
 - Cursor not-allowed and cursor pointer
 - use Flexbox to create component and align
