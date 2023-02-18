@@ -5,6 +5,7 @@
 # Project goal
 
 - position relative and position absolute to create the progress bar
+- disabling and enabling buttons
 - CSS animation + transition to give it the smooth effect
 - Font-awesome icons
 - Cursor not-allowed and cursor pointer
